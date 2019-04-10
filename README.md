@@ -12,4 +12,4 @@ A simple BarcodeScanner with Ionic 1, angularJs and  plugin BarcodeScanner which
 <li>ITF</li>
 </ul>
 
-Tutorial can be found at the following link : http://blog-wassim.azurewebsites.net/fr/barcode-scanner-using-ionic-framework
+Tutorial can be found at the following link : https://www.the-lazy-dev.com/en/barcode-scanner-using-ionic-framework/
